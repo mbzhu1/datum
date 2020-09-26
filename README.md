@@ -17,7 +17,7 @@ chmod +x datum
 
 You can now run the script to view the power usage and battery status of your Mac
 ```
-datum
+./datum
 ```
 Sample output:
 ```
@@ -32,6 +32,4 @@ Battery Information:
       Connected: No
       Charging: No
 ```
-
-
 
